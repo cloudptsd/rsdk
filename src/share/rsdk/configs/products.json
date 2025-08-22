@@ -350,7 +350,7 @@
         "product_full_name": "ROCK 5 ITX",
         "soc": "rk3588",
         "supported_suite": ["bookworm"],
-        "supported_edition": ["kde"]
+        "supported_edition": ["cli"]
     },
     {
         "product": "orion-o6",
